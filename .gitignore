@@ -1,0 +1,22 @@
+# Node dependencies
+node_modules/
+
+# Bob internal / temporary files
+.bob/
+.tmp-pptx/
+
+# Unrelated documents and standalone folders
+*.docx
+*.pptx
+*.xlsx
+*.xlsx.xlsx
+competitive-intelligence-radar*/
+sherpa-pmm-repo/
+outputs/
+src/
+g2-intelligence-hub-plan.md
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
